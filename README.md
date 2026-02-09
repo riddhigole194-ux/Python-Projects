@@ -38,5 +38,4 @@ This calculator supports keyboard typing, dark theme UI, and a scrollable calcul
 
 ---
 
-##  Project Structure
 
